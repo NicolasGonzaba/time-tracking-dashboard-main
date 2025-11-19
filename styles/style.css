@@ -1,0 +1,142 @@
+body{
+    font-size: 18px !important;
+    font-weight: 300;
+    background-color: hsl(226, 43%, 10%) !important;
+    color: white !important;
+    font-family: "Rubik", sans-serif !important;
+
+}
+
+.p-blue{
+    color: hsl(236, 100%, 87%);
+}
+
+h1{
+    /* font-size: 40px; */
+    font-weight: 300 !important;
+}
+
+.grid{
+    margin: 15rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 30px;
+    height: 550px;
+    width:1110px;
+}
+
+.work{
+    display: flex;
+    flex-direction:column;
+    border-radius: 8%;
+    background-color: hsl(15, 100%, 70%);
+    
+}
+
+.play{
+    display: flex;
+    flex-direction:column;
+    border-radius: 8%;
+    background-color: hsl(195, 74%, 62%);
+}
+
+.study{
+    display: flex;
+    flex-direction:column;
+    border-radius: 8%;
+    background-color: hsl(348, 100%, 68%);
+}
+
+.exercise{
+    display: flex;
+    flex-direction:column;
+    border-radius: 8%;
+    background-color: hsl(145, 58%, 55%);
+}
+.social{
+    display: flex;
+    flex-direction:column;
+    border-radius: 8%;
+    background-color: hsl(264, 64%, 52%);
+}
+.self-care{
+    display: flex;
+    flex-direction:column;
+    border-radius: 8%;
+    background-color: hsl(43, 84%, 65%);
+}
+.blue{
+    background-color: hsl(246, 80%, 60%);
+    border-radius: 8%;
+    height: 70%;
+}
+
+.m-card{
+    height: 80%;
+    width: 100.1%;
+}
+
+.ds-blue{
+    color: hsl(235, 45%, 61%);
+}
+
+.dark-blue{
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 8%;
+}
+
+.grid-report{
+    grid-column: 1;
+    grid-row: span 2;
+}
+
+.grid-work{
+    grid-column: 2;
+    
+}
+
+.grid-play{
+    grid-column: 3;
+    
+}
+
+.grid-study{
+    grid-column: 4;
+    
+}
+
+.grid-exercise{
+    grid-column: 2;
+    grid-row:  2;
+}
+
+.grid-social{
+    grid-column: 3;
+    grid-row:  2;
+}
+
+.grid-care{
+    grid-column: 4;
+    grid-row:  2;
+}
+
+.image{
+   display: flex;
+    justify-content: end;
+  
+}
+
+.top{
+    display: flex;
+    justify-content: end;
+    overflow: hidden;
+    height: 20%;
+}
+
+.cover{
+    object-fit: cover;
+    align-self:end;
+    margin-top: -10px;
+    padding-right: 20px;
+}
