@@ -6,7 +6,7 @@ Time Tracker
 
 I made a mockup website for a time tracker, following a figma for both the laptop and mobile version and creating my own tablet version. It also uses Javascipt to collect data from a Json, and change the times displayed on the html accordingly.
 
-Person who Peer Reviewed your assignment:
+Person who Peer Reviewed your assignment: Vanessa Acuna - the great projects looks and performs great. The mobile as looks great! No additional comments, I think you completed all the requirments.
 
 
 
