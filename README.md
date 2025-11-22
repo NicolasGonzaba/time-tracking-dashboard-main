@@ -1,3 +1,18 @@
+Nicolas Gonzaba 
+
+Date Revised: November 22 2025 
+
+Time Tracker
+
+I made a mockup website for a time tracker, following a figma for both the laptop and mobile version and creating my own tablet version. It also uses Javascipt to collect data from a Json, and change the times displayed on the html accordingly.
+
+Person who Peer Reviewed your assignment:
+
+
+
+
+
+
 # Frontend Mentor - Time tracking dashboard
 
 ![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
